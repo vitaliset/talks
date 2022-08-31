@@ -1,3 +1,9 @@
+#Training
+
+## Probabilidade (DataLab 2022/08/31) 🇧🇷
+
+pass
+
 # Journal Clubs
 
 ## Multi-Armed-Bandits (DataLab 2022/02/25) 🇧🇷
